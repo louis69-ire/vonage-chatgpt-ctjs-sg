@@ -9,7 +9,7 @@ const VONAGE_API_KEY = "3d878450";
 const VONAGE_API_SECRET = "vZ3ExNyKc8HvuGMv";
 const VONAGE_APPLICATION_ID = "3324c6d4-6d50-4c9a-9fe2-d48ed55754f6";
 const FB_SENDER_ID = "116730661525324";
-const OPENAI_API_KEY = "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";
+const OPENAI_API_KEY = "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";
 
 // init chatgpt
 const api = new ChatGPTAPI({
