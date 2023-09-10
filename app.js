@@ -5,11 +5,11 @@ import { Vonage } from "@vonage/server-sdk"
 import { MessengerText } from "@vonage/messages"
 import { ChatGPTAPI } from "chatgpt"
 
-const VONAGE_API_KEY = "3d878450";
-const VONAGE_API_SECRET = "vZ3ExNyKc8HvuGMv";
-const VONAGE_APPLICATION_ID = "3324c6d4-6d50-4c9a-9fe2-d48ed55754f6";
-const FB_SENDER_ID = "116730661525324";
-const OPENAI_API_KEY = "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";
+const VONAGE_API_KEY = "xxxxx";
+const VONAGE_API_SECRET = "xxxxxxx";
+const VONAGE_APPLICATION_ID = "xxxxxxx";
+const FB_SENDER_ID = "xxxxxxx";
+const OPENAI_API_KEY = "xxxxxx";
 
 // init chatgpt
 const api = new ChatGPTAPI({
